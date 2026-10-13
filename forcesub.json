@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "channels": [
+    {
+      "name": "🐺 Wolfshat",
+      "id": "@Wolfshat_offical",
+      "link": "https://t.me/Wolfshat_offical",
+      "color": "primary"
+    },
+    {
+      "name": "💎 VIP",
+      "id": "@lib_vip_1",
+      "link": "https://t.me/lib_vip_1",
+      "color": "danger"
+    },
+    {
+      "name": "📢 RFF",
+      "id": "@rff_l",
+      "link": "https://t.me/rff_l",
+      "color": "success"
+    }
+  ]
+}
